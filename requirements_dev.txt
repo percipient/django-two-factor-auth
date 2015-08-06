@@ -9,6 +9,9 @@ twilio
 django_otp
 qrcode
 
+# Optional - improves phone number validation.
+phonenumbers
+
 # Example app
 
 django-debug-toolbar
